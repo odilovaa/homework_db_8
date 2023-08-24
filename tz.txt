@@ -1,0 +1,11 @@
+---------------------------------------meva sklad
+* register +admin panel can do it only 
+login +token
+* story
+* buy
+* sell
+* mohsulotni kurish
+* catigory
+get by catigory
+get statistics monthly
+
